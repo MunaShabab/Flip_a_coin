@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipACoin_MunaShabab", "FlipACoin_MunaShabab.csproj", "{9B7528EE-8BAE-4C51-9291-84CCD26933DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7528EE-8BAE-4C51-9291-84CCD26933DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7528EE-8BAE-4C51-9291-84CCD26933DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7528EE-8BAE-4C51-9291-84CCD26933DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7528EE-8BAE-4C51-9291-84CCD26933DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F63B3E0-ACB6-4174-A377-DC2125CA61CE}
+	EndGlobalSection
+EndGlobal

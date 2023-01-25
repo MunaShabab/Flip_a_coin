@@ -1,0 +1,10 @@
+*test the program at different stages
+	*before having any of the buttons click events to make sure that the pictures are invisible
+	*after creating the flip a coin button click event, making sure it will show a random side of the coin, enable the clear button, and 
+	disable the flip a coin button
+	*after creating the clear button click event, making sure it will clear the pictures and enable the flip a coin button
+	*after creating the exit button click event
+* making sure all the buttons do what they are supposed to do
+*the flip a coin and clear buttons are enabled and disabled in the right order
+* the coin are shone in a random order
+*closing the form using the exit button
